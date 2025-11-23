@@ -127,7 +127,7 @@ flutter pub get
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please check the [repository](https://github.com/Ahmed-lashari/Architecture-Starters) for guidelines.
+Contributions are welcome! Please check the [repository](https://github.com/Ahmed-lashari/Architecture-Starters) and [package](https://github.com/Ahmed-lashari/arch-starters) for guidelines.
 
 ## 📄 License
 
@@ -135,8 +135,10 @@ This project is licensed under the MIT License.
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/Ahmed-lashari/Architecture-Starters)
-- [Report Issues](https://github.com/Ahmed-lashari/Architecture-Starters/issues)
+- [GitHub Architectures](https://github.com/Ahmed-lashari/Architecture-Starters)
+- [Package Repository](https://github.com/Ahmed-lashari/arch-starters)
+- [Report Issues](https://github.com/Ahmed-lashari/arch-starters/issues)
+- [Package Link](https://pub.dev/packages/arch_starters)
 
 
 ## 👨‍💻 Author
@@ -145,4 +147,4 @@ Muhammad Ahmed Lashari
 
 ---
 
-⭐ If you find this package helpful, please give it a star on [GitHub](https://github.com/Ahmed-lashari/Architecture-Starters)!
+⭐ If you find this package helpful, please give it a star on [GitHub](https://github.com/Ahmed-lashari/Architecture-Starters)& [Package](https://pub.dev/packages/arch_starters)!

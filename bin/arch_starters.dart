@@ -1,8 +1,7 @@
 import 'dart:io';
+import 'package:arch_starters/arch_starters.dart';
 import 'package:args/args.dart';
 import 'package:ansi_styles/ansi_styles.dart';
-import '../lib2/src/commands.dart';
-import '../lib2/src/repo_manager.dart';
 
 void main(List<String> arguments) async {
   final commandHandler = CommandHandler();
