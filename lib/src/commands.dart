@@ -57,20 +57,28 @@ class CommandHandler {
       print('');
 
       /// Show warning with prominent styling
-      print(AnsiStyles.bold(AnsiStyles.yellow('⚠️  WARNING:')));
+      print(AnsiStyles.bold(AnsiStyles.yellow('⚠️  WARNING')));
       print(
         AnsiStyles.yellow(
-          'Your current lib/ and pubspec.yaml files will be overwritten.',
+          'This operation will overwrite the contents of your lib/ folder and your pubspec.yaml file.',
         ),
       );
       print(
         AnsiStyles.red(
-          'This package is only recommended for NEWLY CREATED Flutter projects.',
+          'Use this tool only in a NEW or EMPTY Flutter project to avoid losing existing work.',
         ),
       );
       print(
-        AnsiStyles.cyan('It is designed for rapid and fast development setup.'),
+        AnsiStyles.cyan(
+          'The generator sets up a complete project architecture for you — no need to build folders, layers, or boilerplate from scratch.',
+        ),
       );
+      print(
+        AnsiStyles.green(
+          'For fresh projects, this saves hours of manual setup and ensures a clean, consistent structure.',
+        ),
+      );
+
       print('');
       stdout.write(AnsiStyles.bold('Do you want to proceed? (y/N): '));
 

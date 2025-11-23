@@ -3,7 +3,6 @@
 /// More dartdocs go here.
 library;
 
-export 'arch_starters.dart';
 export 'src/commands.dart';
 export 'src/repo_manager.dart';
 export 'src/file_operations.dart';

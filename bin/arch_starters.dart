@@ -15,7 +15,7 @@ void main(List<String> arguments) async {
   }
 
   if (arguments.contains('--version') || arguments.contains('-v')) {
-    print(AnsiStyles.cyan('arch_starters version ${AnsiStyles.bold('1.0.0')}'));
+    print(AnsiStyles.cyan('arch_starters version ${AnsiStyles.bold('1.0.1')}'));
     return;
   }
 

@@ -135,10 +135,10 @@ This project is licensed under the MIT License.
 
 ## 🔗 Links
 
-- [GitHub Architectures](https://github.com/Ahmed-lashari/Architecture-Starters)
 - [Package Repository](https://github.com/Ahmed-lashari/arch-starters)
-- [Report Issues](https://github.com/Ahmed-lashari/arch-starters/issues)
 - [Package Link](https://pub.dev/packages/arch_starters)
+- [Report Issues](https://github.com/Ahmed-lashari/arch-starters/issues)
+- [Architectures Repository](https://github.com/Ahmed-lashari/Architecture-Starters)
 
 
 ## 👨‍💻 Author
